@@ -1,4 +1,7 @@
+With this Kata, don't worry about fancy UI's etc. Focus at the core of the problem, using tests to drive the design. UI can be a simple console application.
+
 ----------------------------------------------------------------------------------
+
 Problem: Employee monthly payslip
  
 When I input the employee's details: first name, last name, annual salary(positive integer) and super rate(0% - 50% inclusive), payment start date, the program should generate payslip information with name, pay period,  gross income, income tax, net income and super.
